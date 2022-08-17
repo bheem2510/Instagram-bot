@@ -3,7 +3,7 @@ A Instagram Bot developed in Python who likes posts with #python3 and #javascrip
 
 ---
 
-![alt text](https://github.com/bheem2510/Instagram-Bot/master/cover2.png)
+![alt text](https://github.com/bheem2510/Instagram-bot/blob/master/Cover%20(1).jpg)
 
 Do you use Instagram?
 Do you want to know how to build an Instagram Bot?
