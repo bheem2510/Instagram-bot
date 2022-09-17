@@ -1,8 +1,8 @@
-#imports
+#imports musduls
 from instapy import InstaPy
 from instapy import smart_run
 
-# login credentials 
+# login credentials id pass
 insta_username = ''  # <- enter username here
 insta_password = ''  # <- enter password here
 
