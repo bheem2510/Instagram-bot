@@ -11,6 +11,8 @@ insta_password = ''  # <- enter password here
 session = InstaPy(username=insta_username,
                   password=insta_password)
 
+
+
 with smart_run(session):
     """ Activity flow """
     # general settings
